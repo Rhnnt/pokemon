@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+//変更しました
+
 typedef struct species{
   char name[20];
   int basehp;
